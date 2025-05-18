@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "vitaminboostalr",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7829bb23-baa4-4e33-a53d-6bf1ecd50467",
+      "database_name": "VitaminBoostALR Database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
